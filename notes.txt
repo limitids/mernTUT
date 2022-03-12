@@ -1,0 +1,19 @@
+backend has all the server code
+
+server.js is server entrypoint
+
+.gitignore to ignore files
+
+npm init to start server 
+
+PACKAGES: express, dotenv, mongoose,colors
+
+npm i -D nodemon to instantly update server on change 
+
+Start and server in scripts to represent node commands 
+
+Postman helps with viewing an api and testing it <-- GOOOODDD
+
+best practice to make controller
+
+!!!STOPPED AT ACCEPTING BODY DATA
