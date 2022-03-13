@@ -16,4 +16,8 @@ Postman helps with viewing an api and testing it <-- GOOOODDD
 
 best practice to make controller
 
-!!!STOPPED AT ACCEPTING BODY DATA
+must use middleware to translate body data 
+
+middleware = functions that execute during request
+
+controllers dealing with mongoose must use async functions
